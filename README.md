@@ -7,4 +7,5 @@ Y is a letter between a-z that specifies the start rotation of every wheel.
 
 Example:
 ENIGMA_II_Encrypt('Hello world','567hex') gives ans = 'Xjtrq cqxtk'
+
 ENIGMA_II_Decrypt('Xjtrq cqxtk','567hex') gives ans = 'Hello world'
